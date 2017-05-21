@@ -1,0 +1,9 @@
+.gradle/
+.idea
+HelloWorld_v5.iml
+app/app.iml
+app/build/
+local.properties
+build
+*.iml
+build/intermediates/dex-cache/cache.xml
